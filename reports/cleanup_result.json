@@ -1,0 +1,734 @@
+{
+  "root": "C:\\Users\\TEMP.LUU.006\\Nhan-dang-chu-so-viet-tay",
+  "deleted": [
+    {
+      "path": "src/__pycache__/check_real_photos.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3963
+    },
+    {
+      "path": "src/__pycache__/compare_mixed.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 6554
+    },
+    {
+      "path": "src/__pycache__/config.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 2464
+    },
+    {
+      "path": "src/__pycache__/data.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 5088
+    },
+    {
+      "path": "src/__pycache__/demo_canvas.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 10610
+    },
+    {
+      "path": "src/__pycache__/demo_photo.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 26733
+    },
+    {
+      "path": "src/__pycache__/demo_webcam.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 4365
+    },
+    {
+      "path": "src/__pycache__/detect.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 13841
+    },
+    {
+      "path": "src/__pycache__/emnist_model.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 4334
+    },
+    {
+      "path": "src/__pycache__/emnist_predict.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 28831
+    },
+    {
+      "path": "src/__pycache__/evaluate.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 5987
+    },
+    {
+      "path": "src/__pycache__/ink_predict.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 5519
+    },
+    {
+      "path": "src/__pycache__/model.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 1833
+    },
+    {
+      "path": "src/__pycache__/package_project.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3182
+    },
+    {
+      "path": "src/__pycache__/predict.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 4279
+    },
+    {
+      "path": "src/__pycache__/preprocess.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 8934
+    },
+    {
+      "path": "src/__pycache__/train.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 6999
+    },
+    {
+      "path": "src/__pycache__/train_emnist.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 12474
+    },
+    {
+      "path": "src/__pycache__/train_yolo.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3641
+    },
+    {
+      "path": "src/__pycache__/train_yolo_emnist.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3929
+    },
+    {
+      "path": "src/__pycache__/train_yolo_mixed.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3919
+    },
+    {
+      "path": "src/__pycache__/yolo_dataset.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 7566
+    },
+    {
+      "path": "src/__pycache__/yolo_emnist_dataset.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 9553
+    },
+    {
+      "path": "src/__pycache__/yolo_mixed_dataset.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 9177
+    },
+    {
+      "path": "src/__pycache__/yolo_predict.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 12276
+    },
+    {
+      "path": "src/__pycache__/__init__.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 194
+    },
+    {
+      "path": "tests/__pycache__/test_demo.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 9241
+    },
+    {
+      "path": "tests/__pycache__/test_detect.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 7487
+    },
+    {
+      "path": "tests/__pycache__/test_emnist.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 9111
+    },
+    {
+      "path": "tests/__pycache__/test_ink.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 3521
+    },
+    {
+      "path": "tests/__pycache__/test_photo.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 7745
+    },
+    {
+      "path": "tests/__pycache__/test_preprocess.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 5115
+    },
+    {
+      "path": "tests/__pycache__/test_release.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 2827
+    },
+    {
+      "path": "tests/__pycache__/test_yolo.cpython-311.pyc",
+      "reason": "Python bytecode cache; regenerated automatically",
+      "bytes": 5525
+    },
+    {
+      "path": "reports/emnist_training.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 2375
+    },
+    {
+      "path": "reports/final_tests.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 4028
+    },
+    {
+      "path": "reports/gui_stderr.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 0
+    },
+    {
+      "path": "reports/gui_stdout.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 0
+    },
+    {
+      "path": "reports/mixed_test_output.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 1019
+    },
+    {
+      "path": "reports/mixed_val_output.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 1017
+    },
+    {
+      "path": "reports/release_gui_stderr.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 0
+    },
+    {
+      "path": "reports/release_gui_stdout.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 0
+    },
+    {
+      "path": "reports/yolo_emnist_training.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 221772
+    },
+    {
+      "path": "reports/yolo_mixed_training.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 142740
+    },
+    {
+      "path": "reports/yolo_training.log",
+      "reason": "Transient console/training log; structured history and metrics retained",
+      "bytes": 271790
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/weights/last.pt",
+      "reason": "Last-epoch checkpoint unused by model pointers; best.pt retained",
+      "bytes": 5440538
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/weights/last.pt",
+      "reason": "Last-epoch checkpoint unused by model pointers; best.pt retained",
+      "bytes": 5439962
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/weights/last.pt",
+      "reason": "Last-epoch checkpoint unused by model pointers; best.pt retained",
+      "bytes": 5460314
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch0.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 198992
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch1.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 200701
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch1125.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 215999
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch1126.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 203110
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch1127.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 235239
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/train_batch2.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 207634
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch0.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 220028
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch1.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 223223
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch2.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 228573
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch441.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 234129
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch442.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 243223
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/train_batch443.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 229868
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch0.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 260035
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch1.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 254495
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch2.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 250306
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch700.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 222887
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch701.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 243358
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/train_batch702.jpg",
+      "reason": "Training augmentation preview; config/metrics/curves retained",
+      "bytes": 235074
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch0_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 229399
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch0_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 235238
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch1_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 254860
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch1_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 263402
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch2_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 236735
+    },
+    {
+      "path": "models/yolo/digits_20261031_180956/val_batch2_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 244108
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch0_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 258588
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch0_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 266612
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch1_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 268946
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch1_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 279909
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch2_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 256146
+    },
+    {
+      "path": "models/yolo/mixed_20261101_130618/val_batch2_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 264840
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch0_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 271451
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch0_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 278626
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch1_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 269055
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch1_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 275577
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch2_labels.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 272447
+    },
+    {
+      "path": "models/yolo/yolo_emnist_20261101_133349/val_batch2_pred.jpg",
+      "reason": "Intermediate training validation preview; final test evidence retained",
+      "bytes": 279269
+    },
+    {
+      "path": "data/yolo_digits/labels/test.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 30355
+    },
+    {
+      "path": "data/yolo_digits/labels/train.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 353436
+    },
+    {
+      "path": "data/yolo_digits/labels/val.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 60207
+    },
+    {
+      "path": "data/yolo_emnist/labels/test.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 29015
+    },
+    {
+      "path": "data/yolo_emnist/labels/train.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 470742
+    },
+    {
+      "path": "data/yolo_emnist/labels/val.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 59467
+    },
+    {
+      "path": "data/yolo_mixed/labels/test.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 28695
+    },
+    {
+      "path": "data/yolo_mixed/labels/train.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 294681
+    },
+    {
+      "path": "data/yolo_mixed/labels/val.cache",
+      "reason": "Ultralytics label cache; generated labels and images retained",
+      "bytes": 43381
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-balanced-test-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 14739216
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-balanced-test-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 18808
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-balanced-train-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 88435216
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-balanced-train-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 112808
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-bymerge-test-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 91197248
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-bymerge-test-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 116331
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-bymerge-train-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 547178704
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-bymerge-train-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 697940
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-digits-test-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 31360016
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-digits-test-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 40008
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-digits-train-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 188160016
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-digits-train-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 240008
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-letters-test-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 16307216
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-letters-test-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 20808
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-letters-train-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 97843216
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-letters-train-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 124808
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-mnist-test-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 7840016
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-mnist-test-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 10008
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-mnist-train-images-idx3-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 47040016
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/emnist-mnist-train-labels-idx1-ubyte",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 60008
+    },
+    {
+      "path": "data/raw/emnist/EMNIST/raw/gzip.zip",
+      "reason": "Unused EMNIST split or original download archive; all four ByClass IDX files retained",
+      "bytes": 561753746
+    },
+    {
+      "path": "reports/figures/dense_mask_current.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 10857
+    },
+    {
+      "path": "reports/figures/dense_mask_otsu.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 10858
+    },
+    {
+      "path": "reports/figures/image15_mask_before.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 11752
+    },
+    {
+      "path": "reports/figures/oip_dark_50.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 11287
+    },
+    {
+      "path": "reports/figures/oip_dark_70.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 8917
+    },
+    {
+      "path": "reports/figures/oip_dark_90.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 5257
+    },
+    {
+      "path": "reports/figures/oip_mask.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2711
+    },
+    {
+      "path": "reports/figures/oip_mask2.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 3196
+    },
+    {
+      "path": "reports/figures/oip_mask_120.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2454
+    },
+    {
+      "path": "reports/figures/oip_mask_150.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2301
+    },
+    {
+      "path": "reports/figures/oip_mask_60.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2952
+    },
+    {
+      "path": "reports/figures/oip_mask_90.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2722
+    },
+    {
+      "path": "reports/figures/oip_red_strength.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 31591
+    },
+    {
+      "path": "reports/figures/oip_yolo_full.json",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 1644
+    },
+    {
+      "path": "reports/figures/oip_yolo_full.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 246157
+    },
+    {
+      "path": "reports/figures/oip_yolo_table.json",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 1630
+    },
+    {
+      "path": "reports/figures/oip_yolo_table.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 40522
+    },
+    {
+      "path": "reports/figures/oip_zoom.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 228304
+    },
+    {
+      "path": "reports/figures/user_blue_baseline.json",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 2240
+    },
+    {
+      "path": "reports/figures/user_blue_baseline.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 22159
+    },
+    {
+      "path": "reports/figures/user_blue_cnn.json",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 5374
+    },
+    {
+      "path": "reports/figures/user_blue_cnn.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 20232
+    },
+    {
+      "path": "reports/figures/user_blue_mask.png",
+      "reason": "Unreferenced intermediate preprocessing diagnostic",
+      "bytes": 10865
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_134451.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 52440578
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_134533.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 52440877
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_134730.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 52441724
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_135129.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 52627489
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_140914.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 53955370
+    },
+    {
+      "path": "dist/handwritten_digits_20261101_142959.zip",
+      "reason": "Superseded submission ZIP; a fresh verified submission archive will replace these",
+      "bytes": 54335128
+    }
+  ],
+  "skipped": [],
+  "deleted_bytes": 2039647742.0,
+  "protected_files_verified": 51,
+  "protected_contents_unchanged": true,
+  "verification": {
+    "unit_tests_passed": 31,
+    "emnist_byclass_train_readable": 697932,
+    "emnist_byclass_test_readable": 116323,
+    "real_photo_regression": "four cases exact match; dense case unchanged at 199/200, existing 4->8 error retained",
+    "submission_archive": "dist/DU_AN_NHAN_DANG_CHU_SO.zip"
+  },
+  "submission_archive_verified": true,
+  "submission_archive_bytes": 53942012,
+  "submission_archive_sha256": "058239d8e06fdd36d2b5941804e8664846a3f58d2a52b8c3aa3709136e6f3dd1"
+}

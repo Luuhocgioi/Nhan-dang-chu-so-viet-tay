@@ -1,0 +1,77 @@
+{
+  "text": "234\n88",
+  "detections": [
+    {
+      "digit": 2,
+      "score": 0.8291212916374207,
+      "bbox": [
+        350,
+        167,
+        44,
+        79
+      ],
+      "probabilities": null,
+      "row": 0
+    },
+    {
+      "digit": 3,
+      "score": 0.36327776312828064,
+      "bbox": [
+        609,
+        171,
+        43,
+        77
+      ],
+      "probabilities": null,
+      "row": 0
+    },
+    {
+      "digit": 4,
+      "score": 0.8274366855621338,
+      "bbox": [
+        865,
+        170,
+        59,
+        76
+      ],
+      "probabilities": null,
+      "row": 0
+    },
+    {
+      "digit": 8,
+      "score": 0.7783908247947693,
+      "bbox": [
+        599,
+        427,
+        49,
+        77
+      ],
+      "probabilities": null,
+      "row": 1
+    },
+    {
+      "digit": 8,
+      "score": 0.32291868329048157,
+      "bbox": [
+        1084,
+        435,
+        154,
+        205
+      ],
+      "probabilities": null,
+      "row": 1
+    }
+  ],
+  "backend": "ultralytics-yolo",
+  "confidence_threshold": 0.25,
+  "inference_imgsz": 640,
+  "coordinate_space": "output_image",
+  "output_size": [
+    1280,
+    720
+  ],
+  "input_size": [
+    1280,
+    720
+  ]
+}

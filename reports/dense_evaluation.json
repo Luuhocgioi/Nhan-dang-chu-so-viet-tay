@@ -1,0 +1,73 @@
+{
+  "scope": "Development image; manual expected labels inferred from repeated digit rows 0..9, twenty examples per row. Source provenance unknown; not an independent benchmark.",
+  "expected_count": 200,
+  "detected_count": 200,
+  "correct": 199,
+  "rows": [
+    {
+      "expected_digit": 0,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 1,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 2,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 3,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 4,
+      "count": 20,
+      "correct": 19
+    },
+    {
+      "expected_digit": 5,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 6,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 7,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 8,
+      "count": 20,
+      "correct": 20
+    },
+    {
+      "expected_digit": 9,
+      "count": 20,
+      "correct": 20
+    }
+  ],
+  "errors": [
+    {
+      "row": 5,
+      "column": 14,
+      "expected": 4,
+      "predicted": 8,
+      "bbox": [
+        313,
+        111,
+        14,
+        18
+      ],
+      "score": 0.9560866951942444
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "run": "digits_20261031_180956",
+  "model": "C:\\Users\\TEMP.LUU.006\\Nhan-dang-chu-so-viet-tay\\models\\yolo\\digits_20261031_180956\\weights\\best.pt",
+  "test_metrics": {
+    "metrics/precision(B)": 0.9924412752527324,
+    "metrics/recall(B)": 0.9850146197557427,
+    "metrics/mAP50(B)": 0.9926036065067236,
+    "metrics/mAP50-95(B)": 0.9781134205529307,
+    "fitness": 0.9781134205529307
+  },
+  "dataset": "synthetic MNIST composites, not real photos"
+}

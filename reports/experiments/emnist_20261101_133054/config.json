@@ -1,0 +1,13 @@
+{
+  "epochs": 15,
+  "per_class": 2500,
+  "seed": 42,
+  "device": "cuda",
+  "train_samples": 152692,
+  "val_samples": 12400,
+  "normalization": "transpose raw EMNIST; tight crop; preserve ratio to20; center in28",
+  "characters": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  "torch": "2.7.1+cu128",
+  "source": "NIST EMNIST ByClass",
+  "digit_threshold": 0.65
+}

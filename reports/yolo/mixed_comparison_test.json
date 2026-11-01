@@ -1,0 +1,22 @@
+{
+  "baseline": {
+    "digit_precision": 0.41855670103092785,
+    "digit_recall": 0.9530516431924883,
+    "correct_digits": 203,
+    "false_digit_boxes": 282,
+    "digit_targets": 213,
+    "letters_as_digits": 221,
+    "letter_targets": 266,
+    "letter_false_positive_rate": 0.8308270676691729
+  },
+  "candidate": {
+    "digit_precision": 0.9512195121951219,
+    "digit_recall": 0.9154929577464789,
+    "correct_digits": 195,
+    "false_digit_boxes": 10,
+    "digit_targets": 213,
+    "letters_as_digits": 1,
+    "letter_targets": 266,
+    "letter_false_positive_rate": 0.0037593984962406013
+  }
+}

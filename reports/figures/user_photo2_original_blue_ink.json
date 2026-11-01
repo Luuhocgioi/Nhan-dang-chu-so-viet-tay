@@ -1,0 +1,39 @@
+{
+  "text": "4",
+  "detections": [
+    {
+      "digit": 4,
+      "score": 0.55980384349823,
+      "probabilities": [
+        1.4698825623327139e-07,
+        0.05327925086021423,
+        0.3792245090007782,
+        4.560301385936327e-05,
+        0.55980384349823,
+        0.000456485606264323,
+        0.007082159165292978,
+        3.8935718293942045e-06,
+        0.00010380182357039303,
+        3.11040025735565e-07
+      ],
+      "bbox": [
+        793,
+        993,
+        26,
+        24
+      ],
+      "row": 0
+    }
+  ],
+  "coordinate_space": "output_image",
+  "output_size": [
+    1200,
+    1600
+  ],
+  "input_size": [
+    1920,
+    2560
+  ],
+  "backend": "blue-ink-cnn",
+  "notes": "Color filter; not a general letter rejection model. Small fragments below half median height omitted."
+}

@@ -1,0 +1,12 @@
+{
+  "run": "yolo_emnist_20261101_133349",
+  "model": "C:\\Users\\TEMP.LUU.006\\Nhan-dang-chu-so-viet-tay\\models\\yolo\\yolo_emnist_20261101_133349\\weights\\best.pt",
+  "test_metrics": {
+    "metrics/precision(B)": 0.578452532910432,
+    "metrics/recall(B)": 0.7700982476135126,
+    "metrics/mAP50(B)": 0.7393299202416143,
+    "metrics/mAP50-95(B)": 0.7270177727505843,
+    "fitness": 0.7270177727505843
+  },
+  "dataset": "EMNIST62 composites, not real photos"
+}

@@ -1,0 +1,4 @@
+{
+  "model": "models/yolo/yolo_emnist_20261101_133349/weights/best.pt",
+  "run_id": "yolo_emnist_20261101_133349"
+}

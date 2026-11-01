@@ -1,0 +1,43 @@
+{
+  "scope": "2 development images, not an independent benchmark",
+  "orientation": "manual expected rotation for phone case",
+  "results": {
+    "numeric-rows": {
+      "dense": {
+        "expected": "00000000000000000000111111111111111111112222222222222222222233333333333333333333444444444444444444445555555555555555555566666666666666666666777777777777777777778888888888888888888899999999999999999999",
+        "actual": "00000000000000000000111111111111111111112222222222222222222233333333333333333333444444444444484444445555555555555555555566666666666666666666777777777777777777778888888888888888888899999999999999999999",
+        "exact_match": false,
+        "boxes": 200,
+        "rejected": 0
+      },
+      "red_webp": {
+        "expected": "0123456789",
+        "actual": "0123456789",
+        "exact_match": true,
+        "boxes": 10,
+        "rejected": 7
+      },
+      "tiles": {
+        "expected": "5041921314",
+        "actual": "5041921314",
+        "exact_match": true,
+        "boxes": 10,
+        "rejected": 0
+      },
+      "grid": {
+        "expected": "123456789",
+        "actual": "123456789",
+        "exact_match": true,
+        "boxes": 9,
+        "rejected": 4
+      },
+      "phone": {
+        "expected": "3512",
+        "actual": "3512",
+        "exact_match": true,
+        "boxes": 4,
+        "rejected": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "epochs": 15,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "run_id": "20261030_163159_141552",
+  "dropout": 0.3,
+  "optimizer": "Adam",
+  "loss": "sparse_categorical_crossentropy",
+  "augmentation": false,
+  "split": {
+    "train": 54000,
+    "validation": 6000,
+    "test": 10000
+  },
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "devices": [
+    "PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU')"
+  ],
+  "versions": {
+    "tensorflow": "2.20.0",
+    "keras": "3.15.1",
+    "numpy": "2.2.6",
+    "opencv-python": "4.12.0.88",
+    "scikit-learn": "1.7.2"
+  }
+}

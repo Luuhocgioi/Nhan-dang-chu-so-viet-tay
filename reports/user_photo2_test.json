@@ -1,0 +1,201 @@
+{
+  "source": "C:/Users/TEMP.LUU.006/Downloads/1793514116442_2209075521745795385_8089266940901408211_d5688339a935afbe7d6fb5b0681671ad.jpg",
+  "shape": [
+    2560,
+    1920,
+    3
+  ],
+  "expected_digits": "3512",
+  "ignore_text": "Xin chào",
+  "results": {
+    "original_yolo": {
+      "text": "5\n5\n5",
+      "count": 3,
+      "detections": [
+        {
+          "digit": 5,
+          "score": 0.5269961953163147,
+          "bbox": [
+            625,
+            318,
+            82,
+            45
+          ],
+          "probabilities": null,
+          "row": 0
+        },
+        {
+          "digit": 5,
+          "score": 0.4735364317893982,
+          "bbox": [
+            637,
+            814,
+            60,
+            55
+          ],
+          "probabilities": null,
+          "row": 1
+        },
+        {
+          "digit": 5,
+          "score": 0.5453593730926514,
+          "bbox": [
+            768,
+            988,
+            54,
+            88
+          ],
+          "probabilities": null,
+          "row": 2
+        }
+      ]
+    },
+    "original_mixed": {
+      "error": "Không có chữ số vượt ngưỡng nhận dạng trong ảnh. Nếu ảnh có số, hãy kiểm tra độ rõ và ánh sáng."
+    },
+    "original_blue_ink": {
+      "text": "4",
+      "count": 1,
+      "detections": [
+        {
+          "digit": 4,
+          "score": 0.55980384349823,
+          "probabilities": [
+            1.4698825623327139e-07,
+            0.05327925086021423,
+            0.3792245090007782,
+            4.560301385936327e-05,
+            0.55980384349823,
+            0.000456485606264323,
+            0.007082159165292978,
+            3.8935718293942045e-06,
+            0.00010380182357039303,
+            3.11040025735565e-07
+          ],
+          "bbox": [
+            793,
+            993,
+            26,
+            24
+          ],
+          "row": 0
+        }
+      ]
+    },
+    "upright_yolo": {
+      "text": "2\n332",
+      "count": 4,
+      "detections": [
+        {
+          "digit": 2,
+          "score": 0.533503532409668,
+          "bbox": [
+            1,
+            1,
+            253,
+            198
+          ],
+          "probabilities": null,
+          "row": 0
+        },
+        {
+          "digit": 3,
+          "score": 0.5276293158531189,
+          "bbox": [
+            319,
+            491,
+            44,
+            80
+          ],
+          "probabilities": null,
+          "row": 1
+        },
+        {
+          "digit": 3,
+          "score": 0.41835853457450867,
+          "bbox": [
+            489,
+            494,
+            40,
+            71
+          ],
+          "probabilities": null,
+          "row": 1
+        },
+        {
+          "digit": 2,
+          "score": 0.6107221841812134,
+          "bbox": [
+            817,
+            500,
+            44,
+            63
+          ],
+          "probabilities": null,
+          "row": 1
+        }
+      ]
+    },
+    "upright_mixed": {
+      "error": "Không có chữ số vượt ngưỡng nhận dạng trong ảnh. Nếu ảnh có số, hãy kiểm tra độ rõ và ánh sáng."
+    },
+    "upright_blue_ink": {
+      "text": "4\n1",
+      "count": 2,
+      "detections": [
+        {
+          "digit": 4,
+          "score": 0.8331356644630432,
+          "probabilities": [
+            3.122028469082494e-10,
+            0.15657366812229156,
+            2.9006210411353095e-07,
+            9.723706170916557e-06,
+            0.8331356644630432,
+            1.0797373761306517e-05,
+            4.4173160063110117e-07,
+            0.0011777787003666162,
+            0.009088309481739998,
+            3.2967807328532217e-06
+          ],
+          "bbox": [
+            993,
+            381,
+            24,
+            26
+          ],
+          "row": 0
+        },
+        {
+          "digit": 1,
+          "score": 0.979300320148468,
+          "probabilities": [
+            4.7500965592917055e-05,
+            0.979300320148468,
+            0.0006576523883268237,
+            0.00030701077776029706,
+            0.011453980579972267,
+            6.515921995742247e-05,
+            0.00036620712489821017,
+            0.0008516900707036257,
+            0.000769987644162029,
+            0.006180531810969114
+          ],
+          "bbox": [
+            678,
+            503,
+            12,
+            33
+          ],
+          "row": 1
+        }
+      ]
+    }
+  },
+  "manual_review": {
+    "upright_yolo": "3 correct; 5 predicted 3; 1 missed; 2 correct; one false 2 box on wood",
+    "upright_mixed": "No digits detected",
+    "upright_blue_ink": "Both boxes on text; all four digit targets missed",
+    "status": "Diagnostic only; no training, threshold adjustment or model promotion on this image"
+  }
+}

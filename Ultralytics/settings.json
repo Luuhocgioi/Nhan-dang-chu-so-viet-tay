@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\TEMP.LUU.006\\datasets",
+  "weights_dir": "C:\\Users\\TEMP.LUU.006\\Nhan-dang-chu-so-viet-tay\\weights",
+  "runs_dir": "C:\\Users\\TEMP.LUU.006\\Nhan-dang-chu-so-viet-tay\\runs",
+  "uuid": "d32a319585d6dfbb07113edfbc3a614280a96a019260706a54ba4b52db0f2482",
+  "sync": false,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

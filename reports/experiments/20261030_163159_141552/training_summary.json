@@ -1,0 +1,8 @@
+{
+  "best_epoch": 8,
+  "epochs_run": 11,
+  "seconds": 46.99195179999879,
+  "train_accuracy": 0.9937777519226074,
+  "validation_accuracy": 0.9894999861717224,
+  "reload_verified": true
+}

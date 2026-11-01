@@ -1,0 +1,50 @@
+{
+  "text": "",
+  "detections": [],
+  "rejected": [
+    {
+      "bbox": [
+        452,
+        62,
+        7,
+        32
+      ],
+      "character": "l",
+      "score": 0.5003665089607239
+    },
+    {
+      "bbox": [
+        136,
+        145,
+        6,
+        15
+      ],
+      "character": "i",
+      "score": 0.5395669937133789
+    },
+    {
+      "bbox": [
+        86,
+        194,
+        5,
+        14
+      ],
+      "character": "1",
+      "score": 0.3397817611694336
+    }
+  ],
+  "backend": "numeric-rows",
+  "confidence_threshold": 0.65,
+  "proposal_mode": "color",
+  "coordinate_space": "output_image",
+  "assumption": "At least 3 similarly sized widely separated symbols form numeric rows; spaced letters may still be mistaken.",
+  "input_size": [
+    474,
+    266
+  ],
+  "output_size": [
+    474,
+    266
+  ],
+  "message": "Không có chữ số đủ điểm nhận dạng."
+}

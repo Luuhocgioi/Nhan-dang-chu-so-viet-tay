@@ -1,0 +1,6 @@
+{
+  "backend": "numeric-rows",
+  "scope": "Separated numeric rows, at least 3 similarly sized widely spaced symbols; not general OCR",
+  "selection_evidence": "Both user development photos pass exact sequence checks; not independent validation",
+  "alternative": "Select EMNIST chữ/số for isolated characters, or YOLO to compare"
+}
